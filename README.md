@@ -22,11 +22,12 @@ path2image
 
 ### Script sample №1 
 ![nti](https://github.com/denchicez/test_job_local/blob/main/image/nti.jpg?raw=true)
+###### Input
 ```
 python C:/test_job_local/yolo_object_detection.py 
 C:/test_job_local/nti.jpg
 ```
-
+###### Output
 ```
 kruzhok
 ```
@@ -34,11 +35,12 @@ kruzhok
 ### Script sample №2 
 
 ![abrikos](https://foodandmood.com.ua/i/70/83/24/708324/image_main/dbb370837d641548ac7701a36adb5029-quality_75Xresize_crop_1Xallow_enlarge_0Xw_740Xh_493.jpg)
+###### Input
 ```
 python C:/test_job_local/yolo_object_detection.py 
 C:/test_job_local/abrikos.jpg
 ```
-
+###### Output
 ```
  
 ```
