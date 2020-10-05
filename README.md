@@ -9,7 +9,7 @@ Upload your image to directory "image"
 - [numpy](https://numpy.org/) - for search argmax in scores
 ## Download packages
 ```
-- pip install opencv-python
+- pip install opencv-python==4.4.0.44 -i https://pypi.douban.com/simple
 - pip install numpy
 ```
 - Install [weights](https://drive.google.com/file/d/1-9ZQNPWj2M77_1EQ3HlFuuczX_8kXj-7/view?usp=sharing) from google drive to main catalog.
